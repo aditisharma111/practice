@@ -4,6 +4,8 @@
  */
 package ggg;
 
+import static java.lang.System.out;
+
 /**
  *
  * @author aditi
@@ -15,8 +17,9 @@ public class Ggg {
      */
     public static void main(String[] args) {
         System.out.println("hii world");
-        today is 19 of feb
-            i loved this day
+        today is 19 of feb;
+            i loved this day;
+                    System.out.println("now i m in branch ");
         // TODO code application logic here
     }
     
